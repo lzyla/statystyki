@@ -1,0 +1,8195 @@
+[
+  {
+    "meta": {
+      "id": 47693,
+      "subjectId": "P2137",
+      "n1": "60-64",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47693,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 982450,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 975974,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 961781,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 957472,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 948091,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 934272,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 908677,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 877364,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 850704,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 828908,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 812399,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 866732,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 951081,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1049445,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1150145,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1265217,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1328354,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1373260,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1405543,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1431397,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1456858,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1466095,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1475016,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47694,
+      "subjectId": "P2137",
+      "n1": "25-29",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47694,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2456523,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2504691,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2580961,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2657220,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2683065,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2772495,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2870280,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2940830,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 3004459,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 3062053,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 3108329,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 3118350,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 3167759,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 3235993,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 3277651,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 3268594,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 3239832,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 3157190,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 3041318,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2929069,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2832463,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2760348,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2683414,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47695,
+      "subjectId": "P2137",
+      "n1": "30-34",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47695,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1283701,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1250094,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1220680,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1200600,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1177785,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1184524,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1202759,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1233117,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1269749,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1314171,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1359571,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1406445,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1440417,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1470820,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1498293,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1543444,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1548669,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1568222,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1595440,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1604195,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1600190,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1586316,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1546286,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47696,
+      "subjectId": "P2137",
+      "n1": "25-29",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47696,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1201447,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1224959,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1263811,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1303747,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1320998,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1366182,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1414282,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1449007,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1480415,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1509018,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1531961,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1537546,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1561734,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1595878,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1615482,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1610901,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1596139,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1554871,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1496695,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1440787,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1392240,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1355400,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1317719,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47698,
+      "subjectId": "P2137",
+      "n1": "40-44",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47698,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1610160,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1622818,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1628586,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1627519,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1586486,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1542376,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1483908,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1414094,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1348578,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1290347,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1243114,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1210022,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1186026,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1167740,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1159444,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1176598,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1194970,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1224444,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1261764,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1305611,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1352539,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1402246,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1441066,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47701,
+      "subjectId": "P2137",
+      "n1": "35-39",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47701,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 3184222,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 3062060,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2923901,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2785917,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2625628,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2532760,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2467821,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2418806,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2383295,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2366347,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2381574,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2416039,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2477916,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2549502,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2638657,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2763465,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2864320,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2942543,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 3004273,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 3062063,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 3102846,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 3113212,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 3153692,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47702,
+      "subjectId": "P2137",
+      "n1": "55-59",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47702,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 979559,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 948791,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 918199,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 888474,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 862983,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 844693,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 900877,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 988046,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1090173,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1194871,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1309013,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1372793,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1419747,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1452257,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1479490,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1509459,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1517991,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1526260,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1524115,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1510697,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1468802,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1415682,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1350523,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47706,
+      "subjectId": "P2137",
+      "n1": "50-54",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47706,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 808221,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 865048,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 952179,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1056786,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1145655,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1257708,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1319626,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1364849,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1396570,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1423399,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1448284,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1460799,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1468742,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1469078,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1457314,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1450268,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1399877,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1339104,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1281345,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1230429,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1192044,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1165271,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1145692,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47707,
+      "subjectId": "P2137",
+      "n1": "40-44",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47707,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 3208661,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 3236545,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 3251339,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 3252309,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 3165318,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 3076974,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2962633,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2827019,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2699133,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2585935,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2495806,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2431224,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2383482,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2348640,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2332488,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2374794,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2410696,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2470771,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2546248,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2636623,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2730562,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2831770,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2910246,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47711,
+      "subjectId": "P2137",
+      "n1": "20-24",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47711,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1464630,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1514810,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1549380,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1585188,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1565848,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1589584,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1598260,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1625075,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1660728,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1681114,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1686937,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1671365,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1626334,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1564661,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1505995,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1450103,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1414504,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1374885,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1331665,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1285974,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1229032,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1173476,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1125271,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47712,
+      "subjectId": "P2137",
+      "n1": "35-39",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47712,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1601953,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1541731,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1472399,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1402958,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1322606,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1277923,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1246266,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1221868,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1204772,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1196251,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1204078,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1220931,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1252412,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1288160,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1333609,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1399739,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1450974,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1490406,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1521716,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1550921,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1570926,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1575672,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1596198,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47715,
+      "subjectId": "P2137",
+      "n1": "55-59",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47715,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 857265,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 831876,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 804037,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 780429,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 756735,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 742630,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 794521,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 877336,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 973092,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1069583,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1174259,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1231346,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1273194,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1302953,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1328423,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1383927,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1398651,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1410083,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1412715,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1404861,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1368248,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1322200,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1267175,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47716,
+      "subjectId": "P2137",
+      "n1": "35-39",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47716,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1582269,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1520329,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1451502,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1382959,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1303022,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1254837,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1221555,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1196938,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1178523,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1170096,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1177496,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1195108,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1225504,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1261342,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1305048,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1363726,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1413346,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1452137,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1482557,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1511142,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1531920,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1537540,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1557494,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47717,
+      "subjectId": "P2137",
+      "n1": "50-54",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47717,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1683258,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1799608,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1974648,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2187403,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2373653,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2602592,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2729876,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2823182,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2887801,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2942361,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2990847,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 3011548,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 3025271,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 3023035,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2994063,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2954334,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2848818,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2720308,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2599288,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2490762,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2408302,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2351408,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2310578,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47721,
+      "subjectId": "P2137",
+      "n1": "60-64",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47721,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 811513,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 801641,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 788864,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 781505,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 774440,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 762397,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 743728,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 718592,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 698946,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 682613,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 671598,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 720091,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 796106,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 883282,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 971114,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1086943,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1143193,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1184259,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1214608,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1242337,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1269678,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1285716,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1298329,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47722,
+      "subjectId": "P2137",
+      "n1": "30-34",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47722,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2600371,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2533184,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2477387,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2441841,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2388990,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2403327,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2439382,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2501586,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2574485,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2664952,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2754543,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2848700,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2917552,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2979069,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 3034932,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 3131690,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 3141270,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 3180966,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 3235198,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 3252408,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 3245474,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 3217351,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 3136369,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47723,
+      "subjectId": "P2137",
+      "n1": "50-54",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47723,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 875037,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 934560,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1022469,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1130617,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1227998,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1344884,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1410250,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1458333,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1491231,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1518962,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1542563,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1550749,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1556529,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1553957,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1536749,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1504066,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1448941,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1381204,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1317943,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1260333,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1216258,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1186137,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1164886,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47724,
+      "subjectId": "P2137",
+      "n1": "30-34",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47724,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1316670,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1283090,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1256707,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1241241,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1211205,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1218803,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1236623,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1268469,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1304736,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1350781,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1394972,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1442255,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1477135,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1508249,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1536639,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1588246,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1592601,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1612744,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1639758,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1648213,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1645284,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1631035,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1590083,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47725,
+      "subjectId": "P2137",
+      "n1": "40-44",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47725,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1598501,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1613727,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1622753,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1624790,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1578832,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1534598,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1478725,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1412925,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1350555,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1295588,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1252692,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1221202,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1197456,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1180900,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1173044,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1198196,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1215726,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1246327,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1284484,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1331012,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1378023,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1429524,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1469180,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47726,
+      "subjectId": "P2137",
+      "n1": "45-49",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47726,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2721306,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2853418,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2955334,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 3022590,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 3042422,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 3090482,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 3111210,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 3125609,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 3124164,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 3093469,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 3008379,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2895621,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2763545,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2638943,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2529831,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2472401,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2411463,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2367665,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2333568,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2319382,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2334025,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2370674,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2431284,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47727,
+      "subjectId": "P2137",
+      "n1": "45-49",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47727,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1380967,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1447781,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1499772,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1533944,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1548797,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1571639,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1579420,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1585018,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1582558,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1564958,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1522049,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1464131,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1395501,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1331060,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1273995,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1235301,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1204055,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1181935,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1164110,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1157204,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1163998,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1182646,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1212357,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47728,
+      "subjectId": "P2137",
+      "n1": "45-49",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47728,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1340339,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1405637,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1455562,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1488646,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1493625,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1518843,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1531790,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1540591,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1541606,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1528511,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1486330,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1431490,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1368044,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1307883,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1255836,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1237100,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1207408,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1185730,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1169458,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1162178,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1170027,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1188028,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1218927,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47732,
+      "subjectId": "P2137",
+      "n1": "55-59",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47732,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1836824,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1780667,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1722236,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1668903,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1619718,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1587323,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1695398,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1865382,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2063265,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2264454,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2483272,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2604139,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2692941,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2755210,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2807913,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2893386,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2916642,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2936343,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2936830,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2915558,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2837050,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2737882,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2617698,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47734,
+      "subjectId": "P2137",
+      "n1": "20-24",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47734,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2874651,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2974775,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 3042845,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 3113111,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 3082277,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 3128737,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 3145696,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 3197046,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 3267200,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 3306759,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 3316027,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 3286045,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 3199455,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 3076737,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2957225,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2848527,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2775143,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2697005,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2610442,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2522308,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2411283,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2302001,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2206730,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47736,
+      "subjectId": "P2137",
+      "n1": "25-29",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47736,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1255076,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1279732,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1317150,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1353473,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1362067,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1406313,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1455998,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1491823,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1524044,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1553035,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1576368,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1580804,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1606025,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1640115,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1662169,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1657693,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1643693,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1602319,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1544623,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1488282,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1440223,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1404948,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1365695,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47738,
+      "subjectId": "P2137",
+      "n1": "20-24",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47738,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1410021,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1459965,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1493465,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1527923,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1516429,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1539153,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1547436,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1571971,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1606472,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1625645,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1629090,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1614680,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1573121,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1512076,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1451230,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1398424,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1360639,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1322120,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1278777,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1236334,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1182251,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1128525,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1081459,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 47739,
+      "subjectId": "P2137",
+      "n1": "60-64",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 47739,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1793963,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1777615,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1750645,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1738977,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1722531,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1696669,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1652405,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1595956,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1549650,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1511521,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1483997,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1586823,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1747187,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1932727,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2121259,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2352160,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2471547,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2557519,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2620151,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2673734,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2726536,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2751811,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2773345,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72238,
+      "subjectId": "P2137",
+      "n1": "70 i więcej",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72238,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 947277,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 971593,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 999887,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1039851,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1052022,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1096425,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1137440,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1173542,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1201218,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1230131,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1259712,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1289060,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1312517,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1332346,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1349742,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1366734,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1380684,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1384153,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1389143,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1399325,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1405948,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1458212,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1520563,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72239,
+      "subjectId": "P2137",
+      "n1": "65-69",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72239,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1633014,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1653943,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1674996,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1653301,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1636276,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1608166,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1594237,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1578248,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1571319,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1561704,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1541930,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1503698,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1453753,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1412937,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1379123,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1359829,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1459742,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1613687,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1789658,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1969087,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2161758,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2272891,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2353970,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72240,
+      "subjectId": "P2137",
+      "n1": "70 i więcej",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72240,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2701715,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2771923,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2843691,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2941235,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 3007795,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 3117609,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 3216631,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 3309427,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 3380000,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 3456569,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 3533893,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 3612812,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 3677623,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 3733350,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 3782347,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 3830580,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 3865273,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 3874026,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 3882950,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 3904960,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 3914660,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 4030514,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 4166277,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72241,
+      "subjectId": "P2137",
+      "n1": "65-69",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72241,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 942549,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 947141,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 957111,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 943563,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 933843,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 917533,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 910961,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 901524,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 899037,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 893692,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 882389,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 859139,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 829973,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 805081,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 784435,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 767372,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 820198,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 902686,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 997610,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1094991,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1200267,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1260779,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1303603,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72242,
+      "subjectId": "P2137",
+      "n1": "70 i więcej",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72242,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1754438,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1800330,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1843804,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1901384,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1955773,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2021184,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2079191,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2135885,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2178782,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2226438,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2274181,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2323752,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2365106,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2401004,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2432605,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2463846,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2484589,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2489873,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2493807,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2505635,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2508712,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2572302,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2645714,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72243,
+      "subjectId": "P2137",
+      "n1": "65-69",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72243,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 690465,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 706802,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 717885,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 709738,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 702433,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 690633,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 683276,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 676724,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 672282,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 668012,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 659541,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 644559,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 623780,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 607856,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 594688,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 592457,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 639544,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 711001,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 792048,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 874096,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 961491,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1012112,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1050367,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72295,
+      "subjectId": "P2137",
+      "n1": "ogółem",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72295,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-09-17T17:31:29.03",
+          "values": [
+            {
+              "year": "1995",
+              "val": 19823369,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 19842642,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 19858815,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 19868726,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 19715504,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 19716616,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 19717034,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 19711782,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 19704178,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 19703582,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 19703200,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 19698704,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 19704140,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 19720950,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 19738587,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 19876741,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 19883870,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 19883965,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 19866124,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 19858793,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 19839248,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 19839826,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 19840383,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72296,
+      "subjectId": "P2137",
+      "n1": "0-4",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72296,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1184666,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1128240,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1079709,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1033024,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 998299,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 966935,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 935343,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 907551,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 886448,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 872655,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 865498,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 869303,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 886063,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 917922,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 949385,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1006816,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1009311,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1000733,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 969798,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 940586,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 919225,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 914499,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 922473,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72297,
+      "subjectId": "P2137",
+      "n1": "5-9",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72297,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1401048,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1358873,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1317650,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1273329,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1241316,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1187199,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1134062,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1085308,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1039361,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 997413,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 965947,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 933942,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 905882,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 884443,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 870513,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 878297,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 885825,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 909609,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 948298,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 985508,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1006423,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1012566,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1005296,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72298,
+      "subjectId": "P2137",
+      "n1": "10-14",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72298,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1650802,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1634277,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1587809,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1525692,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1461022,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1405565,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1365363,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1327133,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1283767,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1239884,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1185909,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1132305,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1083225,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1037080,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 994831,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 967340,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 938882,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 912066,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 892041,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 879759,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 875384,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 883144,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 907259,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72299,
+      "subjectId": "P2137",
+      "n1": "15-19",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72299,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1584255,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1588510,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1612467,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1638479,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1632662,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1635640,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1622950,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1580493,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1518380,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1456524,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1402020,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1362057,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1324231,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1280845,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1236942,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1185934,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1131961,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1084545,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1037626,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 994614,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 964181,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 935949,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 909232,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72300,
+      "subjectId": "P2137",
+      "n1": "ogółem",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72300,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-09-17T17:31:29.03",
+          "values": [
+            {
+              "year": "1995",
+              "val": 18786030,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 18796699,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 18801164,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 18798257,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 18547799,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 18537339,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 18525163,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 18506749,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 18486430,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 18470253,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 18453855,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 18426775,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 18411501,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 18414926,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 18428742,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 18653125,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 18654577,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 18649334,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 18629535,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 18619809,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 18597991,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 18593166,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 18593175,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72301,
+      "subjectId": "P2137",
+      "n1": "0-4",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72301,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1245456,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1187344,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1138359,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1091024,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1049326,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1017933,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 984484,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 956734,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 934728,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 921826,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 915133,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 920418,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 937383,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 970420,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1003415,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1059807,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1063457,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1055522,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1024298,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 995491,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 972450,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 966224,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 973678,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72302,
+      "subjectId": "P2137",
+      "n1": "5-9",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72302,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1473621,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1432511,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1387235,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1341190,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1299169,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1241704,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1185972,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1136140,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1089943,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1048059,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1016667,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 982661,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 954675,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 932390,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 919512,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 925178,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 933287,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 957982,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 998173,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1035925,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1059127,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1066670,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1060314,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72303,
+      "subjectId": "P2137",
+      "n1": "10-14",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72303,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1722571,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1704814,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1658754,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1596788,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1532793,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1475115,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1434000,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1391398,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1345924,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1297400,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1240021,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1183731,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1133650,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1087185,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1045121,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1018328,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 988215,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 960702,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 938818,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 926882,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 921955,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 930261,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 955199,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72304,
+      "subjectId": "P2137",
+      "n1": "15-19",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72304,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "1995",
+              "val": 1652472,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 1656343,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 1680013,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 1704650,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 1701043,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1706730,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1694454,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1650683,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1587286,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1523950,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1467263,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1426063,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1384048,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1339448,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1292121,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1238406,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1182763,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1134117,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1086683,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1043883,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1013535,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 983817,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 956504,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72305,
+      "subjectId": "P2137",
+      "n1": "ogółem",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72305,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-09-17T17:31:29.03",
+          "values": [
+            {
+              "year": "1995",
+              "val": 38609399,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 38639341,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 38659979,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 38666983,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 38263303,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 38253955,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 38242197,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 38218531,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 38190608,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 38173835,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 38157055,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 38125479,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 38115641,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 38135876,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 38167329,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 38529866,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 38538447,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 38533299,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 38495659,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 38478602,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 38437239,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 38432992,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 38433558,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72306,
+      "subjectId": "P2137",
+      "n1": "0-4",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72306,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2430122,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2315584,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2218068,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2124048,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2047625,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 1984868,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 1919827,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 1864285,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1821176,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1794481,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1780631,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1789721,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1823446,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1888342,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1952800,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2066623,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2072768,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2056255,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1994096,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1936077,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1891675,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1880723,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1896151,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72307,
+      "subjectId": "P2137",
+      "n1": "5-9",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72307,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 2874669,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 2791384,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 2704885,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 2614519,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2540485,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2428903,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2320034,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2221448,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2129304,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2045472,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1982614,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1916603,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1860557,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1816833,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1790025,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1803475,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1819112,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1867591,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1946471,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2021433,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2065550,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2079236,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2065610,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72308,
+      "subjectId": "P2137",
+      "n1": "10-14",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72308,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 3373373,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 3339091,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 3246563,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 3122480,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 2993815,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 2880680,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 2799363,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 2718531,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 2629691,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2537284,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2425930,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2316036,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2216875,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2124265,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2039952,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1985668,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1927097,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1872768,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1830859,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1806641,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1797339,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1813405,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1862458,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 72309,
+      "subjectId": "P2137",
+      "n1": "15-19",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 72309,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "1995",
+              "val": 3236727,
+              "attrId": 1
+            },
+            {
+              "year": "1996",
+              "val": 3244853,
+              "attrId": 1
+            },
+            {
+              "year": "1997",
+              "val": 3292480,
+              "attrId": 1
+            },
+            {
+              "year": "1998",
+              "val": 3343129,
+              "attrId": 1
+            },
+            {
+              "year": "1999",
+              "val": 3333705,
+              "attrId": 1
+            },
+            {
+              "year": "2000",
+              "val": 3342370,
+              "attrId": 1
+            },
+            {
+              "year": "2001",
+              "val": 3317404,
+              "attrId": 1
+            },
+            {
+              "year": "2002",
+              "val": 3231176,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 3105666,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 2980474,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 2869283,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 2788120,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 2708279,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 2620293,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 2529063,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 2424340,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 2314724,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 2218662,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 2124309,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2038497,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1977716,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1919766,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1865736,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76014,
+      "subjectId": "P2137",
+      "n1": "70-74",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76014,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "2002",
+              "val": 858657,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 851572,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 845874,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 834433,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 831490,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 825005,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 824544,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 821223,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 809476,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 790476,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 763620,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 740885,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 724114,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 709220,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 758875,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 835703,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76015,
+      "subjectId": "P2137",
+      "n1": "75-79",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76015,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "2002",
+              "val": 670533,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 682220,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 696428,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 710138,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 722166,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 734451,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 731352,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 729000,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 722715,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 722315,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 719561,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 720932,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 719682,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 713305,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 698260,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 675442,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76016,
+      "subjectId": "P2137",
+      "n1": "80-84",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76016,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "2002",
+              "val": 363381,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 409127,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 438960,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 469475,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 492586,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 502783,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 515735,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 529310,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 546582,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 560558,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 572920,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 573719,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 575848,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 573722,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 577259,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 577927,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76017,
+      "subjectId": "P2137",
+      "n1": "85 i więcej",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76017,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "2002",
+              "val": 243314,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 235863,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 245176,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 260135,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 277510,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 302867,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 329373,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 353072,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 385073,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 411240,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 433772,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 458271,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 485991,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 512465,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 537908,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 556642,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76018,
+      "subjectId": "P2137",
+      "n1": "70-74",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76018,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "2002",
+              "val": 571259,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 569858,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 566500,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 559808,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 556608,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 552652,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 551162,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 549236,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 546873,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 537840,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 522501,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 511569,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 504635,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 499013,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 540885,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 602593,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76019,
+      "subjectId": "P2137",
+      "n1": "75-79",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76019,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "2002",
+              "val": 351032,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 364356,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 381580,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 398679,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 414627,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 425276,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 426090,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 425667,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 423535,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 424351,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 425030,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 426422,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 427533,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 426027,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 420654,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 410114,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76020,
+      "subjectId": "P2137",
+      "n1": "80-84",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76020,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "2002",
+              "val": 165040,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 184201,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 195299,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 207321,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 216979,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 224505,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 235446,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 247559,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 260916,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 273936,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 282986,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 285659,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 288334,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 288989,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 292062,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 294101,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76021,
+      "subjectId": "P2137",
+      "n1": "85 i więcej",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76021,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "2002",
+              "val": 86211,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 82803,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 86752,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 93904,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 100846,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 110084,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 119648,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 127280,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 135410,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 144557,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 153636,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 165493,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 178823,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 191919,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 204611,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 213755,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76022,
+      "subjectId": "P2137",
+      "n1": "70-74",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76022,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "2002",
+              "val": 1429916,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1421430,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1412374,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1394241,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1388098,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1377657,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1375706,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1370459,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1356349,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1328316,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1286121,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1252454,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1228749,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1208233,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1299760,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1438296,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76023,
+      "subjectId": "P2137",
+      "n1": "75-79",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76023,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "2002",
+              "val": 1021565,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 1046576,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 1078008,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 1108817,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 1136793,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 1159727,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 1157442,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 1154667,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 1146250,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 1146666,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 1144591,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 1147354,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 1147215,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 1139332,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 1118914,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 1085556,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76024,
+      "subjectId": "P2137",
+      "n1": "80-84",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76024,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "2002",
+              "val": 528421,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 593328,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 634259,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 676796,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 709565,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 727288,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 751181,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 776869,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 807498,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 834494,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 855906,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 859378,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 864182,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 862711,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 869321,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 872028,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 76025,
+      "subjectId": "P2137",
+      "n1": "85 i więcej",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 76025,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T13:36:00.427",
+          "values": [
+            {
+              "year": "2002",
+              "val": 329525,
+              "attrId": 1
+            },
+            {
+              "year": "2003",
+              "val": 318666,
+              "attrId": 1
+            },
+            {
+              "year": "2004",
+              "val": 331928,
+              "attrId": 1
+            },
+            {
+              "year": "2005",
+              "val": 354039,
+              "attrId": 1
+            },
+            {
+              "year": "2006",
+              "val": 378356,
+              "attrId": 1
+            },
+            {
+              "year": "2007",
+              "val": 412951,
+              "attrId": 1
+            },
+            {
+              "year": "2008",
+              "val": 449021,
+              "attrId": 1
+            },
+            {
+              "year": "2009",
+              "val": 480352,
+              "attrId": 1
+            },
+            {
+              "year": "2010",
+              "val": 520483,
+              "attrId": 1
+            },
+            {
+              "year": "2011",
+              "val": 555797,
+              "attrId": 1
+            },
+            {
+              "year": "2012",
+              "val": 587408,
+              "attrId": 1
+            },
+            {
+              "year": "2013",
+              "val": 623764,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 664814,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 704384,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 742519,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 770397,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 454046,
+      "subjectId": "P2137",
+      "n1": "0-14",
+      "n2": "kobiety",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 454046,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:18:52.84",
+          "values": [
+            {
+              "year": "2013",
+              "val": 2810137,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2805853,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2801032,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2810209,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2835028,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 454047,
+      "subjectId": "P2137",
+      "n1": "0-14",
+      "n2": "mężczyźni",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 454047,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-04-13T22:10:33.903",
+          "values": [
+            {
+              "year": "2013",
+              "val": 2961289,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 2958298,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 2953532,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 2963155,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 2989191,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "id": 454048,
+      "subjectId": "P2137",
+      "n1": "0-14",
+      "n2": "ogółem",
+      "level": 6,
+      "measureUnitId": 26,
+      "measureUnitName": "osoba"
+    },
+    "data": {
+      "totalRecords": 1,
+      "unitId": "000000000000",
+      "unitName": "POLSKA",
+      "aggregateId": 1,
+      "results": [
+        {
+          "id": 454048,
+          "measureUnitId": 26,
+          "lastUpdate": "2018-08-29T12:29:29.477",
+          "values": [
+            {
+              "year": "2013",
+              "val": 5771426,
+              "attrId": 1
+            },
+            {
+              "year": "2014",
+              "val": 5764151,
+              "attrId": 1
+            },
+            {
+              "year": "2015",
+              "val": 5754564,
+              "attrId": 1
+            },
+            {
+              "year": "2016",
+              "val": 5773364,
+              "attrId": 1
+            },
+            {
+              "year": "2017",
+              "val": 5824219,
+              "attrId": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
